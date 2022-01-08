@@ -16,7 +16,9 @@
   />
 </svelte:head>
 
-<div class="bg-cstm-neutral-light-gray py-20 px-10 font-karla">
+<div
+  class="md:flex md:flex-col min-h-screen bg-cstm-neutral-light-gray py-20 px-10 font-karla"
+>
   <MainContent />
   <Footer />
 </div>
