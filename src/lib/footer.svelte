@@ -1,5 +1,5 @@
 <footer>
-  <div class="text-center py-5">
+  <div class="text-center pt-10 pb-5">
     <p>
       Challenge by <a
         href="https://www.frontendmentor.io?ref=challenge"

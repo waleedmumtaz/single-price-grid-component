@@ -16,5 +16,7 @@
   />
 </svelte:head>
 
-<MainContent />
-<Footer />
+<div class="bg-cstm-neutral-light-gray py-20 px-10 font-karla">
+  <MainContent />
+  <Footer />
+</div>
